@@ -1,1 +1,2 @@
-# Hotel-Bookings-EDA
+The hotel_bookings.csv file provides a comprehensive snapshot of hotel reservations, encompassing guest demographics, booking details, and reservation statuses. With variables ranging from the type of hotel to the average daily rate and reservation status, this dataset offers a wealth of insights into booking patterns and guest behavior within the hospitality industry.
+Through exploratory analysis, we aim to uncover key trends and patterns that can inform strategic decision-making in the dynamic world of hotel management.
